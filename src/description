@@ -1,0 +1,7 @@
+// ==UserScript==
+// @name        Teacup
+// @namespace   teacup
+// @version     1.0
+// @grant       none
+// @include     *
+// ==/UserScript==
